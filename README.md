@@ -1,4 +1,4 @@
-Original texts from [here](https://github.com/masakhane-io/lacuna_pos_ner). 
+Source of Wolof texts from [here](https://github.com/masakhane-io/lacuna_pos_ner). 
 
 
 **Cite:**
