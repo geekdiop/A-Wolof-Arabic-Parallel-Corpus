@@ -86,7 +86,7 @@ If you use this corpus in your research, please cite the original Master's thesi
   author  = {Diop, Thierno},
   title   = {Towards Building a Wolof-Arabic Linguistic Corpus for Machine Translation Purposes},
   school  = {Mohammed V University in Rabat, Faculty of Letters and Human Sciences},
-  year    = {2022},
+  year    = {2024},
   address = {Rabat, Morocco},
   note    = {Master's Thesis in Natural Language Processing}
 }
